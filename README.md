@@ -2,12 +2,6 @@
 
 Para executar este projeto em sua máquina local, siga estas etapas simples:
 
-1. Clone este repositório para o seu computador:
-
-   ```bash
-   git clone https://github.com/seu-usuario/meu-projeto-incrivel.git
-Navegue até o diretório do projeto:
-
 bash
 Copy code
 cd meu-projeto-incrivel
